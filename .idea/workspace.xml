@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ccc15ab-028e-4d2b-899e-8cfea81f54d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/country-codes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/ComboBoxDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/ComboBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/JListDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/JListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/JSONDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/examples/JSONTranslationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/language-codes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/CanadaTranslator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/CountryCodeConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/GUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/JSONTranslator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/LanguageCodeConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/translation/Translator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/translation/CountryCodeConverterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/translation/JSONTranslatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/translation/LanguageCodeConverterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/translation/CanadaTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/translation/CanadaTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/translation/JSONTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/translation/JSONTranslator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "experimentingwithcode"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/clel1a6/LostInTranslation.git",
+    "accountId": "a5a76e56-c92d-46fe-a5f3-dd94e35c40e2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JxzyP4CYch3C7VyUmN8U3bZ1aF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Unnamed.executor": "Run",
+    "Maven.lab3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="translation" />
+      <option name="MAIN_CLASS_NAME" value="translation.JSONTranslatorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.33813.55" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ccc15ab-028e-4d2b-899e-8cfea81f54d3" name="Changes" comment="" />
+      <created>1790617760869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790617760869</updated>
+    </task>
+    <servers />
+  </component>
+</project>
